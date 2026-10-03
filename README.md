@@ -20,7 +20,7 @@ We can always board out 1x Bulk Up and 1x Reckless Ransacking. The mainboard Sec
 |---|---|
 |**In**       |2x Burst Lightning, 1x Fire Magic or Pyroclasm (otd), 1x Magic Damper  |
 |**Optional** |1x Into the Floodmaw (otd), 1x Pym Particles  |
-|**Out**      |2-4x Pompous Battlemage (otd), 1x Bulk Up|
+|**Out**      |2-4x Pompous Battlemage (otd), 1x Bulk Up, 1x Reckless Ransacking|
 
 
 Strongly favored matchup, as they lack efficient and instant speed interaction. We should secure game 1. We expect them to board in removal (Meltstrider's Resolve) and possibly Mossborn Hydra, sometimes Leatherhead for Leyline and Sapling Nursery. There are 3 things that can go wrong, especially otd: (1) Our hand is slow and they are faster than us, (2) they remove our creatures and (3) they build up enough blockers (potentially with reach) to stall the game and prevent us from going for lethal.
