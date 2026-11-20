@@ -22,21 +22,20 @@ The mainboard Secret Identities are meant to be flexible, they can be protection
 |---|---|
 |**In (Draw)**       |1x Into the Floodmaw, 2x Burst Lightning, 1x Fire Magic, 1x Octopus Form |
 |**Out (Draw)**      |1x Island, 1x Pompous Battlemage, 1x Pym Particles, 1x Reckless Ransacking, 1x Emberheart?|
-|**In (Play)**       |1x Into the Floodmaw, 2x Burst Lightning, 1x Octopus Form |
-|**Out (Play)**      |1x Pompous Battlemage, 1x Pym Particles, 1x Reckless Ransacking, 1x Emberheart?|
+|**Play**       |replace Fire Magic with Island |
 
 
 Strongly favored matchup, as they lack efficient and instant speed interaction. We should secure game 1. We expect them to board in removal (Meltstrider's Resolve) and possibly Mossborn Hydra, sometimes Leatherhead for Leyline and Sapling Nursery. There are 3 things that can go wrong, especially otd: (1) Our hand is slow and they are faster than us, (2) they remove our creatures and (3) they build up enough blockers (potentially with reach) to stall the game and prevent us from going for lethal.
 
-The best card to board in is Burst, because of its low opportunity cost and high ceiling (bolting Elves and setting them back). Sweepers have a high ceiling when they 2for1, but can are terrible top deck later into the game. Firemagic has the upside of being able to kill a Mossborn Hydra or Chocobo after it enters for 1 and being cast on the opponents turn. Keep Pym if they have blockers for flying. Board in Into the Floodmaw if they have a critical mass of landfall doubling effects like Mightform Harmonizer and Mossborn Hydra (denies otk and resets counters). Into the Floodmaw used to be much better when Cub was legal, it also works as a counter to Meltstrider's Resolve or Bushwack, but is more situational and higher opportunity cost than Burst.
-The reasoning for boarding out Battlemage otd (and previously Hired Claw) is, that they often cannot attack into the opposing blockers. They will frequently have a big enough Chocobo or Surrak on T2, which would force us to already use pump spells if we wanted to attack. The most common winning lines are through Slickshot or an unblockable Elusive Otter (potentially with fling) or by generating a few Drake Tokens.
+One of the better cards to board in is Burst, because of its low opportunity cost and high ceiling (bolting Elves or Chocobo and setting them back). Sweepers have a high ceiling when they 2for1, but can are terrible top deck later into the game. Firemagic has the upside of being able to kill a Mossborn Hydra or Chocobo after it enters for 1 and being cast on the opponents turn. Keep Pym if they have blockers for flying. Board in Into the Floodmaw if they have a critical mass of landfall doubling effects like Mightform Harmonizer and Mossborn Hydra (denies otk and resets counters), with the latest list this is almost always the case. Into the Floodmaw used to be much better when Cub was legal, it also works as a counter to Meltstrider's Resolve or Bushwack, but is more situational and higher opportunity cost than Burst.
+The reasoning for boarding out Creatures otd is, that they often cannot attack into the opposing blockers. They will frequently have a big enough Chocobo or the deathtouch Elf on T2, which would force us to already use pump spells if we wanted to attack. The most common winning lines are through Slickshot or an unblockable Elusive Otter (potentially with fling) or by generating a few Drake Tokens.
 
 ### Dimir Midrange
 |   |   |
 |---|---|
-|**In**| 2x Magic Damper, 1x Fire Magic 1-2x Burst Lightning  |
-|**Optional**| 1-2x Spell Pierce, 1x Pym Particles  |
-|**Out** |1x Bulk Up, 1x Reckless Ransacking, 1-2 Secret Identity|
+|**In (Draw)**| 2x Magic Damper, 1x Fire Magic, 2x Burst Lightning, 0-2x Spell Pierce  |
+|**Out (Draw)** | 1x Island, 1x Reckless Ransacking, 2x Secret Identity, 1x Pym Particles, 0-2x Ancestral Anger|
+|**Play** | replace Fire Magic or Pierce with Island |
 
 One of the harder matchups. They have great chump blockers, flying blockers, lots of cheap interaction. Worst of all the interaction comes in all shapes and forms (creatures, noncreatures, spot removal, counters, board wipes), making it hard to play around a certain type of spell. A frequent situation I ran into is playing around spot removal by keeping one mana up for protection with a single creature - to then get hit by a Strategic Betrayal. This makes sideboarding a lot less impactful, since we have to prepare for attacks from different angles.  
 Dimir rarely taps out and has good answers for the Leyline gameplan, so we can't play too greedily. At the same time they will win the long game. So it comes down to finding the right window for an attack and often results into a stack of multiple answers and protection spells. Qarsi Revenant, Flashfreeze and Spell Snare are some of the many great cards they can board against us. Duress is quite dangerous and can disassemble a great hand into a poor one, but many players don't consider this card against Leyline (don't tell them).  
@@ -44,58 +43,107 @@ Magic Damper protects against spot removal and the flash creatures targeting, it
 With Spell Pierce im not sure. It is the only way to for example protect a Slickshot from Flashfreeze or Snare, but it risks being a dead card at times. I would board depending on the cards we're seing in game 1, since there are slightly different builds of Dimir Midrange.  
 Fire Magic used to be amazing in a similiar role as Burst Lightning, but with Deep-Cavern Bat falling out of fashion, it depends on how many 1-toughness targets it can still hit.  
 Pym Particles can replace Ancestral Anger, but the toughness of their creatures is so low that it probably barely matters.  
-Secret Identity is a lot worse in this matchup due to opposing flyers, so they get replaced by other protection spells.  
+Secret Identity is a lot worse in this matchup due to opposing flyers, so they get partially replaced by other protection spells.  
 
-### Spellementals
+### Jund Sac
 |   |   |
 |---|---|
-|**In**| 2x Magic Damper, 1x Ghost Vacuum (otd), 1x Soul-Guide Lantern | 
-|**Optional**| 1x Spell Pierce  |
+|**In (Draw)**| 2x Burst Lightning, 1x Octopus Form, 1x Dreadmaws Ire, 1x Karn?  |
+|**Out (Draw)** | 1x Island, 1x Reckless Ransacking, 1x Pym Particles, 1-2x Ancestral Anger|
+|**Play** | replace Karn or Burst with Island |
 
-### 4c Control
+Unsure about Karn here, may be too defensive and depends on which build they are on. Burst on a mana dork or Lobelia can be a huge tempo loss for them, but this matchup is already favoured so it might be better to stick with the gameplan. Adjust depending on what type of and how much removal they are playing.
+
+### Boros Pixie
 |   |   |
 |---|---|
-|**In**| 2x Magic Damper, 3x Spell Pierce  |
+|**In (Draw)**| 2x Burst Lightning, 1x Octopus Form, 1x Dreadmaws Ire, 1-2x Karn?  |
+|**Out (Draw)** | 1x Island, 1x Reckless Ransacking, 1x Pym Particles, 1x Battlemage, 1-2x Ancestral Anger|
+|**Play** | replace Karn or Burst with Island |
 
-### Dimir Excruciator
+Burst for Momo (and has plenty of other fine targets like a warped Shepherd on Pixie cast), Karn is a huge tempo loss, however Momo, Pixie, Kirk, Nova and Shepherd all have ETBs and it stops Naked Time ETBs aswell. 
+
+### Dimir Reanimator
 |   |   |
 |---|---|
-|**In**| 1x Soul-Guide Lantern, 2x Magic Damper, 2-3x Spell Pierce  |
+|**In (Draw)**| 2x GY hate, 2-3 Pierce, 1x Damper  |
+|**Out (Draw)** | 1x Island, 1x Reckless Ransacking, 1x Pym Particles, 1x Secret Identity, 1-2x Ancestral Anger|
+|**Play** | replace Ghost Vac with Island |
 
 ### Orzhov Lifegain
 |   |   |
 |---|---|
-|**In**| 2x Magic Damper, 1x Pyroclasm, 2x Burst Lightning  |
-|**Out**| 1-2x Secret Identity, 1x Reckless Ransacking, 1x Bulk Up (otd)  |
+|**In (Draw)**| 2x Burst, 1x Fire Magic, 2x Karn, 1x Damper  |
+|**Out (Draw)** | 1x Island, 1x Reckless Ransacking, 2x Secret Identity, 1x Pym, 1-2x Ancestral Anger|
+|**Play** | replace Fire Magic with Island |
 
-### Mardu Discard
+### Spellementals
 |   |   |
 |---|---|
-|**In**| 1x Magic Damper, 2x Burst Lightning, 1x Pym Particles  |
-|**Optional**| 1x Into the Floodmaw (otd)  |
-|**Out**| 1-2x Secret Identity, 1x Reckless Ransacking, 1x Bulk Up, 1-2x Ancestral Anger (otp) | 
+|**In (Draw)**| 2x GY hate, 1-2x Pierce, 2x Damper  |
+|**Out (Draw)** | 1x Island, 1x Reckless Ransacking, 2x Secret Identity, 1-2x Ancestral Anger|
+|**Play** | replace 1x Anger with Island |
 
-### Azorius Flash
+### Azorius Control
 |   |   |
 |---|---|
-|**In**| 2x Magic Damper, 1x Pym Particles, 1-2x Spell Pierce (otd)  |
-|**Out**| 0-1x Secret Identity, 1x Reckless Ransacking, 1x Bulk Up, 1-2x Ancestral Anger (otp)  |
+|**In (Draw)**|  4x Pierce, 2x Damper  |
+|**Out (Draw)** | 1x Island, 1x Reckless Ransacking, 1x Secret Identity, 2x Ancestral Anger, 1x Pym|
+|**Play** | replace 1x Anger with Island |
 
-### Azorius Momo
+possibly replace another Anger with Damper?
+
+### 4c Control
 |   |   |
 |---|---|
-|**In**| 2x Burst Lightning, 1x Pym Particles, 1x Magic Damper  |
-|**Out**| 1-2x Secret Identity, 1x Reckless Ransacking, 1x Bulk Up  |
-
-### Jeskai Control
-|   |   |
-|---|---|
-|**In**| 2x Magic Damper, 2-3 Spell Pierce  |
-|**Out**| 1x Bulk Up, 1-2x Ancestral Anger, 1x Reckless Ransacking, 0-1x Secret Identity  |
+|**In (Draw)**|  4x Pierce, 2x Damper  |
+|**Out (Draw)** | 1x Island, 1x Reckless Ransacking, 1x Secret Identity, 2x Ancestral Anger, 1x Pym|
+|**Play** | replace 1x Anger with Island |
 
 ### Jeskai Artifacts
 |   |   |
 |---|---|
-|**In**| 2-3x Spell Pierce, 1-2x Damper, 1x Dreadmaw's Ire|
+|**In (Draw)**| 4x Spell Pierce, 1x Damper, 1x Dreadmaw's Ire|
+|**Out (Draw)** | 1x Island, 1x Reckless Ransacking, 1x Secret Identity, 2x Ancestral Anger, 1x Pym|
+|**Play** | replace 1x Anger with Island |
+
+### Boros Dwarves
+|   |   |
+|---|---|
+|**In (Draw)**| 2x Burst, 1x Fire Magic, 1x Damper, 1x Dreadmaw's Ire  |
+|**Out (Draw)** | 1x Island, 1x Reckless Ransacking, 1x Pym, 1x Ancestral Anger, 1x Battlemage|
+|**Play** | replace Fire Magic with Island |
+
+### Azorius Momo
+|   |   |
+|---|---|
+|**In (Draw)**| 2x Burst Lightning, 1x Octopus Form, 1x Dreadmaws Ire, 2x Karn?  |
+|**Out (Draw)** | 1x Island, 1x Secret Identity, 1x Reckless Ransacking, 2x Ancestral Anger, 1x Battlemage|
+|**Play** | replace Karn or Burst with Island |
+
+### Jeskai Control
+|   |   |
+|---|---|
+|**In (Draw)**|  4x Pierce, 2x Damper  |
+|**Out (Draw)** | 1x Island, 1x Reckless Ransacking, 1x Secret Identity, 2x Ancestral Anger, 1x Pym|
+|**Play** | replace 1x Anger with Island |
+
+### Boros Dragons
+-
+
+### Prowess
+-
+
+### Mardu Discard
+-
+
+### Azorius Flash
+-
+
+### Boros Tokens
+-
+
+
+
 
 
